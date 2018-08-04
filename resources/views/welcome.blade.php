@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Trainning
+                    Laravel Trainning 151
                 </div>
 
                 <div class="links">
