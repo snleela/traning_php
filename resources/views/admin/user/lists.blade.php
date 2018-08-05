@@ -19,7 +19,11 @@
 <!-- Example DataTables Card-->
 <div class="card mb-3">
  <div class="card-header">
-   <i class="fa fa-table"></i> Users Lists </div>
+    <i class="fa fa-table"></i> Users Lists &nbsp;&nbsp;
+    <a href="{{ URL::to('admin/users/create') }}">
+        <button type="button" class="btn btn-primary btn-sm pullright">Create User</button>
+    </a>
+ </div>
 
  <div class="card-body">
    <div class="table-responsive">
